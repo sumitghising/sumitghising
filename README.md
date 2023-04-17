@@ -1,5 +1,9 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sumit Ghising
+=======================================================================================================================================
 
+
+* 🌍  I'm based in Nepal
+* ✉️  You can contact me at [tr.sumitghising@nccs.edu.np](mailto:tr.sumitghising@nccs.edu.np)
 <!--
 **sumitghising/sumitghising** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
